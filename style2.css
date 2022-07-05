@@ -1,20 +1,20 @@
 p{background-color: rgb(238, 146, 8);text-align: center; font-size: 30px;}
-h3{background-color: rgb(255, 253, 127);text-align: center;}
+h3{background-color: rgb(197, 139, 82);text-align: center;}
 body{background-color: rgb(213, 213, 117);}
 
 p{background-color: rgb(238, 146, 8);text-align: center;}
 
-#i{background-color: rgb(202, 131, 45); font-size: 20px;}
-#m{background-color: rgb(218, 138, 167); font-size:20px}
+#i{background-color: rgb(43, 137, 169); font-size: 20px; color:black}
+#m{background-color: rgb(206, 68, 118); font-size:20px}
 
-#sr{text-align: right; }
+#sr{text-align: center; }
 
-#im{background-color: white; color:black; }
+#im{background-color: rgb(242, 235, 171); color:black; }
 
 
 body{color:white;background-image: url("https://i.pinimg.com/originals/80/3d/3f/803d3fd132beeb3fa2257cbc0db34f19.jpg");
     
-        opacity: 0.9;
+        opacity: 0.9; text-align: center;
       }
 
       
